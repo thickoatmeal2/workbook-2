@@ -42,8 +42,11 @@ public class Main {
             System.out.println("Number of times 6 was rolled: " + numof6);
             System.out.println("Number of times 7 was rolled: " + numof7);
 
+
         }
 
     }
 
 }
+
+

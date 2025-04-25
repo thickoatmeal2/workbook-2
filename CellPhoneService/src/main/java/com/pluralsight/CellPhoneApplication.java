@@ -31,6 +31,10 @@ public class CellPhoneApplication {
         System.out.println("Owner: " + phone.getOwner());
 
 
+        System.out.println("Enter phone number");
+        String numberToDial = scanner.nextLine();
+        phone.dial(numberToDial);
+
 
 
 
